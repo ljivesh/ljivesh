@@ -97,7 +97,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ljivesh/ljivesh/output/ocean.gif" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ljivesh/ljivesh/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
 

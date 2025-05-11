@@ -1,14 +1,16 @@
-<h2 align="left">Hi! My name is Jivesh and I'm a Full Stack Developer</h2>
+<h2 align="left">Hi! My name is Menma and I'm a Full Stack Developer</h2>
 
 ###
 
 <div align="center">
+  <!--
   <a href="https://linkedin.com/in/jivesh-lakhani" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/jivesh_lakhani" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
+    -->
   <a href="https://discord.com/users/722443352934449234" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -17,7 +19,6 @@
   </a>
 </div>
 
-###
 
 <img align="right" height="156" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHI4Nm5ydzQxYWdmYTJpYTJwMXI4MTczeGF6MWR2YWhqemVqemN5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cvyz3Hw4d7EIw/giphy.webp"  />
 
